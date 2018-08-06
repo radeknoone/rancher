@@ -1,3 +1,4 @@
+test
 FROM debian:stretch-slim
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
