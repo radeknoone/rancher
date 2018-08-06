@@ -1,0 +1,9 @@
+name: myname  # The name of the Catalog entry
+description: |
+  mydesc # A description of the Catalog entry
+version: 1 #The default version of the package to use (must match any folder in the rancher-compose version)
+category: modra # The category to use when searching for Catalog entries
+maintainer: radek # The maintainer of the Catalog entry
+license: proprietar # The license
+projectURL: http://whenever.com # The URL related to the Catalog entry
+
